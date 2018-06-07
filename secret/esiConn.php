@@ -1,0 +1,11 @@
+<?php
+
+$client_id = '6c1d8c2b970249948630d38116b282ed';
+$secret_key = 'qOPwTIFbd9kmnUXrLD6rg0uyxIrlGvQNogT9k7Bv';
+$refresh_token = 'vsiEzh_uumRhe5jlD2kRrEjnwVouIswVjauXIsBe5PkhT5Ev7xIMB8qPPuEXVCPRdhxeTbzIw0VRZLTxfaV2ETw4t0Tt1kou_EiMtsxqTUJCrB6a6b695E0vIGKXR77B-w4TQHEm3LE-pY0s_j_ke5P-GV-jHzZbG6zeIPd_XTsijy42fsb5ElNknAMOQqFI3lnG089FqYB6zIATp-5aNmYnFWHzZ9b86vci6iIwcknFLAy9Ii-pdQNmoQUy4mok-oL2qqF_6vuPIsANfkeeRBsVMzRkiQTVix4BB-nGgIjTdpLm5FM-0GRHEOwvRi9ovXf9XONb2QRw9tbCySGO6p5y425P2eVI_XjWmz2vjDB3iKSScBRNA0pfG74a0LVuaiofNtZArIpb3AIadLrvplovhxrWXTYoNHgajH6FQnI1';
+$corporationID = 98403581;
+
+$loginClient_id = 'da282070fdd74f1d88a39a97a5a1c5f9';
+$loginSecret_key = '3VMgkPf6pTxTshSiQbkc4uqvKcVdLNf5N99OBVGq';
+
+?>
